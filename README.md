@@ -95,7 +95,7 @@ The part I actually care about is the hard part: agents that keep their memory i
 Not a wrapper around a model call. A system with a control loop, a memory layer, hardened tools, and a measurement layer that tells me when it degrades.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#E6EDF3','primaryBorderColor':'#1F6FEB','lineColor':'#58A6FF','secondaryColor':'#21262D','tertiaryColor':'#0D1117','fontFamily':'ui-monospace, monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#E6EDF3','primaryBorderColor':'#1F6FEB','lineColor':'#58A6FF','secondaryColor':'#21262D','tertiaryColor':'#0D1117','fontSize':'15px'},'flowchart':{'padding':22,'nodeSpacing':70,'rankSpacing':95,'curve':'basis'}}}%%
 flowchart LR
     U([User Goal]) --> P[Planner<br/>decompose into subgoals]
     P --> R{{Reasoning Loop}}
