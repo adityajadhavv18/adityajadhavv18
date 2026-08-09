@@ -72,19 +72,19 @@ The part I actually care about is the hard part: agents that keep their memory i
 **Agentic &amp; LLM Orchestration**
 
 <p align="left">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/LangSmith-30363D?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Langfuse-30363D?style=for-the-badge&logo=langfuse&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-30363D?style=for-the-badge&logo=crewai&logoColor=white" /> <img src="https://img.shields.io/badge/AutoGen-30363D?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/LangSmith-30363D?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Langfuse-30363D?style=for-the-badge&logo=langfuse&logoColor=white" />
 </p>
 
 **Agent SDKs**
 
 <p align="left">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-1F6FEB?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Model%20Context%20Protocol-30363D?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-1F6FEB?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Model%20Context%20Protocol-30363D?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white" /> <img src="https://img.shields.io/badge/AutoGen-30363D?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 **Core &amp; Infrastructure**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-30363D?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 <br/>
