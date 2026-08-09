@@ -125,7 +125,7 @@ The two boxes most people skip are the two I refuse to: **guardrails** on the to
 <!-- ===================== IN MOTION ===================== -->
 ## In Motion
 
-A short explainer I built in React and Remotion, walking through how an agentic system actually runs a task.
+A short explainer of how an end to end agentic system actually runs a task.
 
 <div align="center">
 
@@ -146,8 +146,8 @@ A short explainer I built in React and Remotion, walking through how an agentic 
 <a href="mailto:aadityaj.sas@gmail.com">
   <img src="https://img.shields.io/badge/Email-30363D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" />
 </a>
-<a href="https://github.com/adityajadhavv18">
-  <img src="https://img.shields.io/badge/GitHub-30363D?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<a href="https://x.com/adityajadhavv18">
+  <img src="https://img.shields.io/badge/X-30363D?style=for-the-badge&logo=x&logoColor=white" alt="x" />
 </a>
 
 <br/><br/>
