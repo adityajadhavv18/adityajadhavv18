@@ -5,15 +5,14 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&height=70&lines=%F0%9F%A4%96+Building+autonomous+agents;%E2%9A%A1+Shipping+full-stack+systems;%F0%9F%A7%A0+Going+deep+on+the+whole+AI+stack;%F0%9F%A6%BE+On+a+mission+to+embodied+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=680&height=70&lines=%F0%9F%A4%96+I+build+autonomous+agents;%E2%9A%A1+I+ship+full-stack+systems+around+them;%F0%9F%8E%AF+I+care+about+reliability%2C+not+demos;%F0%9F%A6%BE+I'm+building+toward+embodied+AI" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ===================== TOP BADGES ===================== -->
 <img src="https://komarev.com/ghpvc/?username=adityajadhavv18&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/Focus-Agentic%20AI-7B2FF7?style=for-the-badge" alt="focus" />
-<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-00E5FF?style=for-the-badge" alt="status" />
+<img src="https://img.shields.io/badge/Role-Agentic%20AI%20Engineer-7B2FF7?style=for-the-badge" alt="role" />
+<img src="https://img.shields.io/badge/Open%20to-Collaborations-00E5FF?style=for-the-badge" alt="open" />
 
 </div>
 
@@ -25,73 +24,74 @@
 ```python
 class Aditya:
     def __init__(self):
-        self.role      = "Agentic AI Engineer"
-        self.base      = "Full-Stack Developer"
-        self.focus     = ["autonomous agents", "tool-use reliability", "eval-driven AI"]
-        self.mission   = "give software agents a body in the real world"
-        self.currently = "making the entire AI stack stop being a black box to me"
+        self.role     = "Agentic AI Engineer"
+        self.base     = "Full-Stack Developer"
+        self.i_build  = ["multi-agent systems", "tool-using agents", "the infra around them"]
+        self.i_obsess = "reliability + evaluation over flashy demos"
+        self.mission  = "give software agents a body in the real world"
 
     def ship(self):
-        return "agents that work in production, not just in a demo"
+        return "agents that hold up in production"
 ```
 
-I build agentic AI systems for a living. I care about the parts most people skip: agents that keep their memory intact over long tasks, tool calls that don't shatter the moment inputs get messy, and orchestration you can actually debug when no two runs behave the same. My full-stack roots mean I can own a thing end to end, from the model call all the way to the button a user clicks. 🔧
+I'm an **Agentic AI Engineer** with a full-stack backbone. I design autonomous, multi-agent systems that plan, reason, and use tools, and I build the full-stack infrastructure that makes them real, from the model call all the way to the interface a user touches. 🔧
 
-Anyone can wire up an agent that works once. I'm the person who wants to know its measured success rate and *why* it dropped after the last change. 📊
+The part I actually care about is the hard part: agents that keep their memory intact across long tasks, tool calls that don't shatter on messy input, and orchestration you can still debug when no two runs behave the same. Anyone can demo an agent that works once. I want to know its measured success rate and *why* it moved. 📊
 
 <br/>
 
-<!-- ===================== SYSTEM BOOT / ROADMAP ===================== -->
-## 🧬 SYSTEM STATUS `2026 → 2028`
+<!-- ===================== FOCUS AREAS ===================== -->
+## 🎯 What I Do
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   MODULE                          STATE                   ║
-╠══════════════════════════════════════════════════════════╣
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Agentic AI           ●  ONLINE      ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  Full-Stack Dev       ●  ONLINE      ║
-║  ▓▓▓▓▓▓▓▓░░░░░░░░░░░  ML / Deep Learning    ◐  LOADING     ║
-║  ▓▓▓▓▓░░░░░░░░░░░░░░  AI Infra & Deploy     ◐  LOADING     ║
-║  ▓▓▓░░░░░░░░░░░░░░░░  AI Security           ○  QUEUED      ║
-║  ▓░░░░░░░░░░░░░░░░░░  Physical AI           ○  BOOTING     ║
-╚══════════════════════════════════════════════════════════╝
-      >> next objective: embodied agents acting in the real world
-```
+<img src="https://img.shields.io/badge/Agentic_AI-00E5FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-7B2FF7?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-00E5FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Eval_%26_Observability-7B2FF7?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Production_Reliability-00E5FF?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Full--Stack-7B2FF7?style=for-the-badge&labelColor=0A0E27" />
+<img src="https://img.shields.io/badge/Embodied_AI-0A0E27?style=for-the-badge&labelColor=0A0E27&color=00E5FF" />
 
 </div>
 
-I run on a plan, not vibes. Two years, mapped quarter by quarter, taking me from "I can orchestrate agents" to "nothing in my stack is a mystery to me," and then bridging into physical AI. The endgame is an embodied agent: the orchestration I already build in software, given a way to move and act in the physical world. 🦾
+**Building agents that work.** Designing multi-agent systems with real memory, planning, and reliable tool use, then wrapping them in full-stack products that ship. 🤖
 
-I show the work as it lands. No claiming ground I haven't earned yet.
+**Engineering for production.** Treating evaluation, observability, and reliability as first-class, so an agent's behavior is measured and debuggable, not a black box. ⚙️
+
+**Bridging software to the physical world.** Deeply interested in embodied AI, taking the orchestration I build in software and giving it a way to act in the real world. 🦾
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
-## ⚙️ Arsenal
+<!-- ===================== ARSENAL ===================== -->
+## 🧰 Arsenal
 
-<div align="center">
+**🧠 Agentic &amp; LLM Orchestration**
 
-<!-- Edit the i= list to match YOUR real stack -->
-<img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,docker,aws,git,linux,vscode&perline=8" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-26A69A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangSmith-FF6F3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Langfuse-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge" />
 
-<br/><br/>
+**🔌 Agent SDKs**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://img.shields.io/badge/OpenAI_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
-</div>
+**⚙️ Core &amp; Infrastructure**
 
-> 💡 Swap the icons and badges above for your actual tools. Keep it honest, keep it tight.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 <br/>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📈 The Numbers
+## 📊 The Numbers
 
 <div align="center">
 
@@ -106,21 +106,6 @@ I show the work as it lands. No claiming ground I haven't earned yet.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityajadhavv18&bg_color=0A0E27&color=00E5FF&line=7B2FF7&point=ffffff&area=true&hide_border=true" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=adityajadhavv18&theme=algolia&no-frame=true&column=7&margin-w=8" />
-
-</div>
-
-<br/>
-
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/adityajadhavv18/adityajadhavv18/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
 </div>
 
 <br/>
@@ -130,10 +115,10 @@ I show the work as it lands. No claiming ground I haven't earned yet.
 
 <div align="center">
 
-<!-- Drop a demo GIF or video of your work here. See the notes I gave you on how. -->
+<!-- Drop a demo GIF or video of your work here once you have one worth showing. -->
 <!-- <img src="YOUR_DEMO_GIF_URL" width="70%" /> -->
 
-*Demo reel coming soon.* 🎥
+*Agent demos dropping soon.* 🎥
 
 </div>
 
@@ -145,10 +130,17 @@ I show the work as it lands. No claiming ground I haven't earned yet.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/adityaj1808/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="linkedin" />
 </a>
 <a href="mailto:aadityaj.sas@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="email" />
+</a>
+<!-- Optional: fill these in or delete them -->
+<a href="https://x.com/YOUR_HANDLE">
+  <img src="https://img.shields.io/badge/X-0A0E27?style=for-the-badge&logo=x&logoColor=00E5FF" alt="x" />
+</a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-0A0E27?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="portfolio" />
 </a>
 
 <br/><br/>
